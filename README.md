@@ -6,9 +6,6 @@ Un classico clone di Tetris implementato in JavaScript vanilla utilizzando HTML5
 
 ![Tetris Gameplay Screenshot](https://i.imgur.com/dmA0gb0.png) 
 
-## Demo Live 🕹️
-[Gioca ora!](https://Nika96dev.github.io/Tetris)
-
 ## Funzionalità ✨
 - ✅ Sistema completo di pezzi Tetris (I, O, T, L, J, S, Z)
 - ✅ Rotazione dei pezzi
